@@ -458,6 +458,51 @@ Se invece il budget consente ~€200-260 e si privilegia il segnale di crescita 
 
 ---
 
+## FASE 18 (aggiunta) — Piano operativo con budget di partenza €1.000
+
+Con €1.000 il vincolo pratico più importante è **non diluire il budget ads su troppi prodotti insieme**: con meno di ~€100-150 per prodotto la piattaforma (TikTok/Meta) non esce nemmeno dalla fase di apprendimento dell'algoritmo, quindi i dati che ne escono non sono affidabili per decidere se un prodotto funziona o no. Per questo la raccomandazione è **concentrare il capitale su 2 dei 3 prodotti** (i due con il rapporto rischio/segnale migliore: guanto rimuovi-peli + aspirapolvere auto) e tenere la padella come terzo test in una seconda fase, finanziata con l'incasso del primo giro.
+
+### Allocazione consigliata (Opzione A — concentrata, 2 prodotti)
+
+| Voce | Guanto rimuovi-peli | Aspirapolvere auto | Totale |
+|---|---|---|---|
+| Quantità di scorta | 50 pezzi | 15 pezzi | — |
+| Costo merce | ~€150-200 | ~€225-270 | — |
+| Spedizione (espressa, incl. sovrattassa batteria per l'aspirapolvere) | ~€50-70 | ~€60-90 | — |
+| Packaging base | ~€15-25 | incluso | — |
+| **Subtotale merce+spedizione** | **~€250** | **~€290** | **~€540** |
+| Budget ads (10-14 giorni di test) | €150 (~€11-15/giorno) | €220 (~€16-20/giorno) | €370 |
+| **Subtotale prodotto** | **~€400** | **~€510** | **~€910** |
+| **Buffer** (commissioni gateway pagamento ~3%, resi, imprevisti) | — | — | **~€90** |
+| **TOTALE** | | | **€1.000** |
+
+Perché più budget ads sull'aspirapolvere: prezzo di vendita più alto (€25-35 vs €14-17) richiede più clic per generare la stessa conversione statisticamente significativa, e la concorrenza è leggermente più aggressiva sui CPM.
+
+### Opzione B — tutti e 3 i prodotti, test "leggero" in parallelo
+
+Se preferisci comunque validare tutti e 3 subito (accettando dati meno solidi su ciascuno):
+
+| Prodotto | Merce+spedizione | Budget ads | Totale |
+|---|---|---|---|
+| Guanto (20 pezzi) | ~€100-140 | €120 | ~€240 |
+| Aspirapolvere (10 pezzi) | ~€200-260 | €130 | ~€360 |
+| Padella (campione 8-10 pezzi, fuori dal MOQ 50 del fornitore) | ~€150-190 | €90 | ~€260 |
+| Buffer | — | — | ~€100-140 |
+| **TOTALE** | | | **~€1.000** |
+
+Con questa opzione ogni prodotto riceve solo €90-130 di ads: sufficiente per un primo segnale qualitativo (il video funziona o no, il CTR è decente o no) ma **non** per una decisione statisticamente solida su conversione/CPA — va considerato un test "annusa il terreno", non un test conclusivo.
+
+### Sequenza consigliata (Opzione A, giorno per giorno)
+
+1. **Giorni 1-2:** Ordina in parallelo 50 pezzi del guanto e 15 pezzi dell'aspirapolvere (o campioni prima, se vuoi verificare la qualità fisica prima di impegnare tutto il capitale — consigliato se è il primo ordine con questi fornitori specifici)
+2. **Giorni 2-4:** mentre la merce viaggia (5-15 giorni a seconda del corriere), prepara le due pagine prodotto e gira i contenuti UGC (puoi usare campioni acquistati separatamente su AliExpress a prezzo singolo per girare i video prima che arrivi lo stock principale)
+3. **Al ricevimento merce:** avvia gli ads sui due prodotti in parallelo ma con budget separati e monitorati indipendentemente
+4. **Dopo 10-14 giorni:** valuta CTR, CPA, tasso di conversione di entrambi. Il prodotto che performa meglio riceve il riordino prioritario; l'incasso generato (se positivo) finanzia il test della padella come terzo prodotto.
+
+**Nota:** tutte le cifre di questa sezione sono stime **[DED]** costruite sugli intervalli già calcolati in Fase 9-10, non preventivi reali dei fornitori.
+
+---
+
 ## Fonti citate
 - WinningHunter: `find_winning_products`, `scan_ad`, `get_store_details`, `search_tiktok_products` (dati Meta Ads Library, Shopify Store Tracker, TikTok Shop — settembre 2026)
 - Ricerca web aggregata su Alibaba.com, Made-in-China.com (fornitori — accesso diretto bloccato in questo ambiente, dati da snippet di ricerca)
